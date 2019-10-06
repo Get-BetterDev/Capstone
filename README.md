@@ -1,0 +1,1 @@
+This the capstone project to finish the "Build Websites" skill path on code academy. Currently learning git and github please excuse and correct me on any mistakes or misuse.
